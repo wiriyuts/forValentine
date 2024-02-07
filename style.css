@@ -68,6 +68,11 @@ body {
   left: 85px;
   color: #003049;
 }
+.text1 {
+  position: absolute;
+  bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 .heart {
   background-color: #d62828;
